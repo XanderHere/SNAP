@@ -4,11 +4,11 @@ This is is a simple Python project that simulates the card game of Snap between 
 
 This repo demonstrates base level understanding of Python and object-orientated programming.
 
-## Setup
-This is to be run from from the command-line or any "" that can call python
+## Run application
+This is to be run from from the command-line
 
-You will need python installed to run this project
+You will need Python3 installed to run this project
 
-To start all you have to do is run the following from within the source directory
+To start all you have to do is run the following from within the SNAP directory
 
-***python ./main.py***
+***python -m snap***
