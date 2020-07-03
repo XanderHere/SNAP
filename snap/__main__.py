@@ -1,7 +1,7 @@
 from random import shuffle, randint
 from time import sleep
-from pile import Pile
-from player import Player
+from snap.pile import Pile
+from snap.player import Player
 
 print("Welcome to SNAP\n")
 

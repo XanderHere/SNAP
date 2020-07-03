@@ -1,6 +1,6 @@
 # SNAP
 
-This is is a simple Python project that simulates the card game of Snap between 2 players, Alex and Kratos.
+This is is a simple Python project that simulates the card game of Snap between 2 players, Alex and Uncle Ben.
 
 This repo demonstrates base level understanding of Python and object-orientated programming.
 
